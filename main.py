@@ -24,12 +24,12 @@ visited = states[states.intersects(MultiPoint(stops.geometry))]
 
 # Plotting
 plot_crs = {'init': 'epsg:2277'}
-fig, ax = plt.subplots(figsize=(20, 14), dpi=300)
+fig, ax = plt.subplots(figsize=(20, 12), dpi=300)
 ax.set_aspect('equal')
 # states.to_crs(plot_crs).plot(ax=ax, color='white', edgecolor='#8f8f8f', linewidth=0.1)
-visited.to_crs(plot_crs).plot(ax=ax, color='#ffc4c4', edgecolor='white', linewidth=0.8)
+visited.to_crs(plot_crs).plot(ax=ax, color='#ffc4c4', edgecolor='white', linewidth=1.0)
 
-routes.to_crs(plot_crs).plot(ax=ax, color='#ff5454', linewidth=1.6) 
+routes.to_crs(plot_crs).plot(ax=ax, color='#ff5454', linewidth=2.0) 
 
 ax.collections[1].set_capstyle('round')
 
@@ -42,4 +42,4 @@ ax.text(0.9, 0.0, 'B & S 2017',
     fontsize=26)
 
 plt.axis('off')
-plt.savefig('maps/roadtripmap.pdf')
+plt.savefig('maps/roadtripmap.ps')
