@@ -1,0 +1,404 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "city": "Brunswick",
+          "state": "Maine"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -69.96231079101562,
+            43.913970592575595
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "city": "Hanover",
+          "state": "New Hampshire"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -72.28926658630371,
+            43.70275380583569
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "city": "Bellows Falls",
+          "state": "Vermont"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -72.46650695800781,
+            43.12303850442337
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "city": "Springfield",
+          "state": "Massachusetts"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -72.59078979492188,
+            42.11095834849246
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "city": "Hartford",
+          "state": "Connecticut"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -72.6800537109375,
+            41.76721469421018
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "city": "Tarrytown",
+          "state": "New York"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.83533477783202,
+            41.05786750695986
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "city": "Montclair",
+          "state": "New Jersey"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.2005443572998,
+            40.85381245334478
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "city": "Wilmington",
+          "state": "Delaware"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.59417724609375,
+            39.706130149279325
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "city": "Salisbury",
+          "state": "Maryland"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.59967041015625,
+            38.36736756347068
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "city": "Virginia Beach",
+          "state": "Virginia"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.98453521728516,
+            36.84940607417791
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "city": "Raleigh",
+          "state": "North Carolina"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -78.6676025390625,
+            35.79219676010834
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "city": "Myrtle Beach",
+          "state": "South Carolina"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -78.90518188476562,
+            33.70263528325575
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "city": "Charleston",
+          "state": "South Carolina"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.94888305664062,
+            32.811515885384395
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "city": "Savannah",
+          "state": "Georgia"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.10107421874999,
+            32.0464968721355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "city": "Birmingham",
+          "state": "Alabama"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -86.81465148925781,
+            33.52193393882357
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "city": "Hattiesburg",
+          "state": "Mississippi"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -89.30854797363281,
+            31.32372700532653
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "city": "New Orleans",
+          "state": "Louisiana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -90.08857727050781,
+            29.962668238805545
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "city": "Memphis",
+          "state": "Tennessee"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -90.03639221191406,
+            35.149950854565155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "city": "Marion",
+          "state": "Arkansas"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -90.20256042480469,
+            35.21533166846627
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "city": "Mansfield",
+          "state": "Missouri"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -92.57869720458984,
+            37.10968165142563
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "city": "Springfield",
+          "state": "Missouri"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -93.29727172851562,
+            37.21501884556323
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "city": "Russell",
+          "state": "Kansas"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.85824203491211,
+            38.88936266735601
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "city": "Avon",
+          "state": "Colorado"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.5219783782959,
+            39.63305986159505
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "city": "Kanab",
+          "state": "Utah"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.52677917480469,
+            37.04312056092881
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "city": "Grand Canyon",
+          "state": "Arizona"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.06192016601562,
+            36.22101087439238
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "city": "Las Vegas",
+          "state": "Nevada"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -115.16143798828126,
+            36.155617833818525
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "city": "Los Angeles",
+          "state": "California"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.44909667968749,
+            34.04583232505719
+          ]
+        }
+      }
+    ]
+  }
